@@ -65,26 +65,6 @@ Software & Platforms
 
 ![Block Diagram](block_diagram.png)
 
----
-
-🔧 Hardware Implementation
-
-![Hardware Setup](hardware_setup.png)
-
----
-
-📊 Real-Time Monitoring Output
-
-Serial Monitor Output
-
-![Serial Output](serial_output.png)
-
-
-Ubidots IoT Dashboard
-
-![Dashboard](ubidots_dashboard.png)
-
-
 ⚙️ Working Principle
 
 1. The gas sensor continuously monitors harmful gases and smoke.
